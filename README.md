@@ -1,4 +1,4 @@
-# DSA 8401 — Training Neural Networks on MNIST
+# Training Neural Networks on MNIST
 
 A systematic study of neural network design, training, optimisation, regularisation, and image classification using the **MNIST handwritten digits dataset**.
 
